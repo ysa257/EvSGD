@@ -19,3 +19,7 @@ NOTE: Notebook has different function names for models as compared to main code 
 (EvSGD)           -> (SSGD)
 (EA_SGD)          -> (CEvSGD)
 (EA_SGDsinglea)   -> (EEvSGD)
+
+
+
+Developed by John Vahedi & Yousef Ahmad, for IEOR 4540: Data Mining at Columbia University with Dr. Krzysztof Choromanski
