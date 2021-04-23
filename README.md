@@ -14,7 +14,7 @@ Notebook structure provides recommended workflow. Generally, we recommend using 
 Users can configure specific model parameters inside of test_EASGD()
 
 
-NOTE: Notebook has different function names for models as compared to main code & paper:
+NOTE: Notebook has different function names for models as compared to main code & paper, detailed below
 
 (EvSGD)           -> (SSGD)
 (EA_SGD)          -> (CEvSGD)
